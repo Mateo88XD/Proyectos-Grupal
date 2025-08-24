@@ -31,9 +31,9 @@ El objetivo de este proyecto es analizar estadísticamente los factores asociado
 - Cumplimiento de plazos establecidos en los sprints.  
 
 ## 7. Riesgos
-- Calidad y disponibilidad del dataset.  
-- Retrasos por falta de coordinación o tiempo.  
-- Sesgos en los datos que puedan afectar la interpretación.  
+- Calidad y disponibilidad del dataset.
+- Retrasos por falta de coordinación o tiempo.
+- Sesgos en los datos que puedan afectar la interpretación.
 
 ## 8. Herramientas
 - Google Colab (análisis y notebooks)  
